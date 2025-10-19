@@ -21,6 +21,7 @@
             padding-bottom: 150px;
             opacity: 0.8;
         }
+        //here small thead changes area done
     </style>
     <script src="./script.js"></script>
     <link rel='stylesheet' href='https://fonts.googleapis.com/css?family=Rubik:400,700'>
